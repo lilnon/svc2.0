@@ -13,7 +13,7 @@
     <div class="card w-72 bg-white p-5 shadow-md shadow-purple-200/50 rounded-md">
   <ul class="w-full flex flex-col gap-2">
   <li class="flex-center cursor-pointer p-4 font-semibold w-full whitespace-nowrap">
-      <a href="./home.php"><button class="flex size-full gap-4 p-4 group font-semibold rounded-full bg-cover hover:bg-purple-100 hover:shadow-inner focus:bg-gradient-to-r from-purple-400 to-purple-600 focus:text-white text-gray-700 transition-all ease-linear">
+      <a href="./index.php"><button class="flex size-full gap-4 p-4 group font-semibold rounded-full bg-cover hover:bg-purple-100 hover:shadow-inner focus:bg-gradient-to-r from-purple-400 to-purple-600 focus:text-white text-gray-700 transition-all ease-linear">
       หน้าหลัก
       </button></a>
     </li>
